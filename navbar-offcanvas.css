@@ -1,6 +1,3 @@
-/**
- * Off Canvas Tweaks
- */
 html,
 body {
   overflow-x: hidden; /* Prevent horizontal scroll on narrow devices */
@@ -11,7 +8,7 @@ body {
 }
 
 /**
- * Off Canvas
+ * Off Canvas Styling
  */
 @media (max-width: 768px) {
   .row-offcanvas {
