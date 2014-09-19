@@ -3,7 +3,7 @@
 (function( $ ) {
 	$(document).ready(function() {
 		$('[data-toggle="offcanvas"]').click(function() {
-			$('.row-offcanvas, .navbar-offcanvas').toggleClass('active');
+			$('.offcanvas-wrapper, .navbar-offcanvas').toggleClass('active');
 		});
 	});
 })( jQuery );
