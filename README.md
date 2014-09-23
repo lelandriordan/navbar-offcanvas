@@ -7,4 +7,4 @@ No extra `<nav>` or `<ul>` elements are added. Instead, the default `.navbar-col
 
 This was adapted from [Bootstrap's offcanvas example.](http://getbootstrap.com/examples/offcanvas/)
 
-Navbar-Offcanvas is licensed under the [GPL](LICENSE).
+Navbar Offcanvas is proudly licensed under the [GPL](LICENSE).
