@@ -6,3 +6,5 @@ Navbar Offcanvas is a simple off canvas navigation example using the Bootstrap 3
 No extra `<nav>` or `<ul>` elements are added. Instead, the default `.navbar-collapse` is overwritten with the `.navbar-offcanvas` class.
 
 This was adapted from [Bootstrap's offcanvas example.](http://getbootstrap.com/examples/offcanvas/)
+
+Navbar-Offcanvas is licensed under the [GPL](LICENSE).
